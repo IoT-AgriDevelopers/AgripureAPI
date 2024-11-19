@@ -269,5 +269,34 @@
       "soilMoisture": 42.7,
       "windSpeed": 4.2
     }
+  ],
+  "climate":[
+    {
+      "id": 1,
+      "temperature": 24.5,      
+      "humidity": 68,           
+      "precipitation": 15.0,    
+      "windSpeed": 5.2,         
+      "windDirection": 120,    
+      "pressure": 1013          
+    },
+    {
+      "id": 2,
+      "temperature": 18.2,
+      "humidity": 75,
+      "precipitation": 0.0,
+      "windSpeed": 3.5,
+      "windDirection": 90,
+      "pressure": 1015
+    },
+    {
+      "id": 3,
+      "temperature": 30.0,
+      "humidity": 60,
+      "precipitation": 5.8,
+      "windSpeed": 4.0,
+      "windDirection": 210,
+      "pressure": 1012
+    }
   ]
 }
