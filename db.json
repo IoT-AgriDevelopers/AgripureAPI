@@ -228,7 +228,8 @@
       "size": 14,
       "quantity": 16,
       "latitude": -11.61412,
-      "longitude": -77.230083
+      "longitude": -77.230083,
+      "forecastId": 1
     },
     {
       "id": 2,
@@ -236,7 +237,8 @@
       "size": 20,
       "quantity": 24,
       "latitude": -11.61412,
-      "longitude": -77.230083
+      "longitude": -77.230083,
+      "forecastId": 2
     }
   ],
   "forecast":[
