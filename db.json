@@ -238,5 +238,46 @@
       "latitude": -11.61412,
       "longitude": -77.230083
     }
+  ],
+  "forecast":[
+    {
+      "id": 1,
+      "main": {
+        "temp": 297.13,
+        "feels_like": 295.62,
+        "humidity": 60,
+        "pressure": 1013
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 3.58
+      }
+    },
+    {
+      "id": 2,
+      "main": {
+        "temp": 289.15,
+        "feels_like": 287.65,
+        "humidity": 65,
+        "pressure": 1015
+      },
+      "visibility": 8000,
+      "wind": {
+        "speed": 5.14
+      }
+    },
+    {
+      "id": 3,
+      "main": {
+        "temp": 298.15,
+        "feels_like": 298.15,
+        "humidity": 50,
+        "pressure": 1010
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 4.12
+      }
+    }
   ]
 }
