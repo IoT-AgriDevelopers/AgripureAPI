@@ -38,8 +38,8 @@
     },
     {
       "username": "Leydi",
-      "email": "leydiaro@gmail",
-      "password": "1234566",
+      "email": "leydia@gmail",
+      "password": "12345678",
       "premium": false,
       "country": "",
       "city": "",
@@ -259,15 +259,6 @@
       "pressure": 1015.2,
       "soilMoisture": 35.8,
       "windSpeed": 5.1
-    },
-    {
-      "id": 3,
-      "temperature": 18.9,
-      "ph": 5.9,
-      "humidity": 55.6,
-      "pressure": 1008.3,
-      "soilMoisture": 42.7,
-      "windSpeed": 4.2
     }
   ],
   "climate":[
